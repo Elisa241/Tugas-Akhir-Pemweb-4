@@ -1,0 +1,117 @@
+{
+    "contacts": [
+        {
+            "name": "Radhitya",
+            "phone": "62 889 2917 305",
+            "company": "",
+            "job_title": "",
+            "address": "",
+            "notes": "",
+            "group": "",
+            "favorite": false,
+            "created_at": "2025-11-15 10:58:34",
+            "email": "",
+            "updated_at": "2025-11-15 10:58:53"
+        },
+        {
+            "name": "Nabila Salwa",
+            "phone": "0831 6856 4572",
+            "company": "",
+            "job_title": "",
+            "address": "",
+            "notes": "",
+            "group": "Teman",
+            "favorite": true,
+            "created_at": "2025-11-15 10:59:26"
+        },
+        {
+            "name": "Puan Akeyla",
+            "phone": "62 857 1165 7850",
+            "company": "",
+            "job_title": "",
+            "address": "",
+            "notes": "",
+            "group": "Teman",
+            "favorite": true,
+            "created_at": "2025-11-15 11:00:23"
+        },
+        {
+            "name": "Hendy",
+            "phone": "628990618884",
+            "company": "",
+            "job_title": "",
+            "address": "",
+            "notes": "",
+            "group": "Keluarga",
+            "favorite": false,
+            "created_at": "2025-11-15 11:02:25"
+        },
+        {
+            "name": "Damkar Bandar Lampung",
+            "phone": "0721-252741",
+            "company": "",
+            "job_title": "",
+            "address": "",
+            "notes": "Layanan darurat 24 jam.\r\nGunakan pada kondisi kebakaran atau keadaan darurat.",
+            "group": "Darurat",
+            "favorite": false,
+            "created_at": "2025-11-15 11:16:00"
+        },
+        {
+            "has_photo": "0",
+            "name": "Elisa",
+            "phone": "0895 3521 45453",
+            "email": "elisaaryani24@gmail.com",
+            "company": "",
+            "job_title": "",
+            "group": "",
+            "address": "Rajabasa Bandar Lampung",
+            "notes": "Kontak Saya",
+            "favorite": false,
+            "created_at": "2025-11-17 14:09:37",
+            "photo": "1763384970_foto.jpg"
+        }
+    ],
+    "groups": [
+        {
+            "id": 1,
+            "name": "Keluarga",
+            "color": "#EF4444"
+        },
+        {
+            "id": 2,
+            "name": "Teman",
+            "color": "#3B82F6"
+        },
+        {
+            "id": 3,
+            "name": "Kerja",
+            "color": "#10B981"
+        },
+        {
+            "id": 4,
+            "name": "Darurat",
+            "color": "#F59E0B"
+        },
+        {
+            "id": 5,
+            "name": "Rahasia",
+            "color": "#EC4899",
+            "created_at": "2025-11-15 08:39:58"
+        }
+    ],
+    "call_history": [
+        {
+            "contact_name": "Elisa",
+            "phone": "0895 352145453",
+            "type": "viewed",
+            "timestamp": "2025-11-17 14:06:28",
+            "duration": "0:00"
+        }
+    ],
+    "settings": {
+        "theme": "light",
+        "notifications": true,
+        "sync": false
+    }
+}
